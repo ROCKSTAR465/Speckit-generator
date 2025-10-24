@@ -1,0 +1,5 @@
+{
+  "name": "SpecKit Generator",
+  "description": "An AI-powered tool that takes a detailed project description and generates comprehensive specification documents, task breakdowns, and a development plan using the Gemini API.",
+  "requestFramePermissions": []
+}
